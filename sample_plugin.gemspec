@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = "0.0.1"
   s.authors     = ["kavyavj"]
   s.email       = ["kavya.vj@connovatech.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of SamplePlugin."
-  s.description = "TODO: Description of SamplePlugin."
+  s.homepage    = "https://github.com/kavyavj/sample_plugin"
+  s.summary     = "Sample plugin."
+  s.description = "This is a POC."
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
