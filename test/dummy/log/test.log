@@ -1,0 +1,373 @@
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------------------------------
+ActsAsSampleTest: test_a_hickwalls_sample_text_field_should_be_last_squawk
+--------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------------------
+ActsAsSampleTest: test_a_wickwalls_yaffle_text_field_should_be_last_tweet
+-------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------------------------------
+ActsAsSampleTest: test_a_hickwalls_sample_text_field_should_be_last_squawk
+--------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------------------
+ActsAsSampleTest: test_a_wickwalls_yaffle_text_field_should_be_last_tweet
+-------------------------------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------------------
+ActAsSampleTest: test_a_hickwalls_sample_text_field_should_be_last_squawk
+-------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+ActAsSampleTest: test_a_wickwalls_yaffle_text_field_should_be_last_tweet
+------------------------------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------------------
+ActAsSampleTest: test_a_hickwalls_sample_text_field_should_be_last_squawk
+-------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+ActAsSampleTest: test_a_wickwalls_yaffle_text_field_should_be_last_tweet
+------------------------------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------------------
+ActAsSampleTest: test_a_hickwalls_sample_text_field_should_be_last_squawk
+-------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+ActAsSampleTest: test_a_wickwalls_yaffle_text_field_should_be_last_tweet
+------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------------------
+ActAsSampleTest: test_a_hickwalls_sample_text_field_should_be_last_squawk
+-------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+ActAsSampleTest: test_a_wickwalls_yaffle_text_field_should_be_last_tweet
+------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+ActAsSampleTest: test_hickwalls_squawk_should_populate_last_squawk
+------------------------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------------------
+ActAsSampleTest: test_wickwalls_squawk_should_populate_last_tweet
+-----------------------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------------------
+ActAsSampleTest: test_a_hickwalls_sample_text_field_should_be_last_squawk
+-------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+ActAsSampleTest: test_a_wickwalls_yaffle_text_field_should_be_last_tweet
+------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+ActAsSampleTest: test_hickwalls_squawk_should_populate_last_squawk
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------------------
+ActAsSampleTest: test_wickwalls_squawk_should_populate_last_tweet
+-----------------------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (197.7ms)[0m  [1mCREATE TABLE "hickwalls" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "last_squawk" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35m (195.8ms)[0m  CREATE TABLE "wickwalls" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "last_squawk" varchar(255), "last_tweet" varchar(255), "created_at" datetime, "updated_at" datetime) 
+  [1m[36m (221.1ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [1m[35m (179.0ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.2ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (208.1ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20140428065302')
+  [1m[36m (177.8ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20140428065237')[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------------------
+ActAsSampleTest: test_a_hickwalls_sample_text_field_should_be_last_squawk
+-------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+ActAsSampleTest: test_a_wickwalls_yaffle_text_field_should_be_last_tweet
+------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+ActAsSampleTest: test_hickwalls_squawk_should_populate_last_squawk
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------------------
+ActAsSampleTest: test_wickwalls_squawk_should_populate_last_tweet
+-----------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.6ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------------------
+ActAsSampleTest: test_a_hickwalls_sample_text_field_should_be_last_squawk
+-------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+ActAsSampleTest: test_a_wickwalls_yaffle_text_field_should_be_last_tweet
+------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+ActAsSampleTest: test_hickwalls_squawk_should_populate_last_squawk
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------------------
+ActAsSampleTest: test_wickwalls_squawk_should_populate_last_tweet
+-----------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------------------
+ActAsSampleTest: test_a_hickwalls_sample_text_field_should_be_last_squawk
+-------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+ActAsSampleTest: test_a_wickwalls_yaffle_text_field_should_be_last_tweet
+------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+ActAsSampleTest: test_hickwalls_squawk_should_populate_last_squawk
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------------------
+ActAsSampleTest: test_wickwalls_squawk_should_populate_last_tweet
+-----------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------------------
+ActAsSampleTest: test_a_hickwalls_sample_text_field_should_be_last_squawk
+-------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+ActAsSampleTest: test_a_wickwalls_yaffle_text_field_should_be_last_tweet
+------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+ActAsSampleTest: test_hickwalls_squawk_should_populate_last_squawk
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------------------
+ActAsSampleTest: test_wickwalls_squawk_should_populate_last_tweet
+-----------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------------------------------
+ActAsSampleTest: test_a_hickwalls_sample_text_field_should_be_last_squawk
+-------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+ActAsSampleTest: test_a_wickwalls_yaffle_text_field_should_be_last_tweet
+------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------
+ActAsSampleTest: test_hickwalls_squawk_should_populate_last_squawk
+------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------------------
+ActAsSampleTest: test_wickwalls_squawk_should_populate_last_tweet
+-----------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------------------
+CoreExtTest: test_to_squawk_prepends_the_word_squawk
+----------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+SamplePluginTest: test_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
