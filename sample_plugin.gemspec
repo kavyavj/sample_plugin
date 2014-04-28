@@ -6,7 +6,7 @@ require "sample_plugin/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "sample_plugin"
-  s.version     = 0.0.1
+  s.version     = "0.0.1"
   s.authors     = ["kavyavj"]
   s.email       = ["kavya.vj@connovatech.com"]
   s.homepage    = "TODO"
