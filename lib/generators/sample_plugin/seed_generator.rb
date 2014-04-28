@@ -6,7 +6,7 @@ require 'rails/generators/active_record'
 module SamplePlugin
   module Generators
     class SeedGenerator < Rails::Generators::Base
-      include Rails::Generators::Migration
+      include Rails::Generators::SeedGenerator
 
       vendor "seeds.rb" do
         p "seed file test"
