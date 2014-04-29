@@ -23,6 +23,23 @@ module SamplePlugin
       def copy_migration
         migration_template 'install.rb', 'db/migrate/install_sample_plugin.rb'
       end
+
+      def create_seed_file
+          vendor "seeds.rb" do
+            # Table created by plugin
+            test = Test.new
+            test.test_id = 234
+            test.test_name = "plgin test"
+            test.save!
+
+            #Table that is in application
+            hickwall = Hickwall.new
+            hickwall.hello("Hello World")
+            hickwall.save!
+        end
+      end
+
+
     end
   end
 end
