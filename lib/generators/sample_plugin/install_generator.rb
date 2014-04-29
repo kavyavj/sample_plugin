@@ -48,6 +48,10 @@ module SamplePlugin
             hickwall.save!
         end
       end
+
+      def generate_welcome_page
+        source_root File.expand_path("../../../../app/views/sample_plugin", __FILE__)
+      end  
       
 
 
