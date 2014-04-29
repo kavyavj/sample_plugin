@@ -27,10 +27,10 @@ module SamplePlugin
       def create_seed_file
           vendor "seeds.rb" do
             # Table created by plugin
-            test = Test.new
-            test.test_id = 234
-            test.test_name = "plgin test"
-            test.save!
+            # test = Test.new
+            # test.test_id = 234
+            # test.test_name = "plgin test"
+            # test.save!
 
             #Table that is in application
             hickwall = Hickwall.new
@@ -38,6 +38,10 @@ module SamplePlugin
             hickwall.save!
         end
       end
+
+      def generate_forums_table
+        generate "scaffold", "forums title:string description:text"
+      end  
 
 
     end
