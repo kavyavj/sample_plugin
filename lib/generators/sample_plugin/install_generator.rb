@@ -30,6 +30,10 @@ module SamplePlugin
         generate "scaffold", "forums title:string description:text"
       end 
 
+      def perform_db_migrate
+        rake "db:migrate"
+      end
+
       def create_seed_file
           vendor "seeds.rb" do
             #Table created by plugin
