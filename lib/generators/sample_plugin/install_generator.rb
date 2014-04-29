@@ -50,6 +50,7 @@ module SamplePlugin
       end
 
       def copy_directory
+        source_root File.expand_path("../../../../app/views/sample_plugin", __FILE__)
         directory '/app/views/sample_plugin', '/app/views'
       end  
       
