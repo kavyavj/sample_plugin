@@ -9,11 +9,12 @@ module SamplePlugin
       include Rails::Generators::Migration
 
       def create_initializer_file
-	  	vendor "seeds.rb" do
-		  hickwall = Hickwall.new
-			hickwall.hello("Hello World")
-			hickwall.save!
-		end
-    end
-  end
+		  	vendor "seeds.rb" do
+			  hickwall = Hickwall.new
+				hickwall.hello("Hello World")
+				hickwall.save!
+			end
+    	end
+  	end
+	end
 end
