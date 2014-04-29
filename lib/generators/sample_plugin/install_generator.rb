@@ -9,7 +9,8 @@ module SamplePlugin
       # include Rails::Generators::Migration
 
       # source_root File.expand_path("../templates", __FILE__)
-
+        source_root File.expand_path("../../../../app/views/sample_plugin", __FILE__)
+      
       # # Implement the required interface for Rails::Generators::Migration.
       # def self.next_migration_number(dirname) #:nodoc:
       #   next_migration_number = current_migration_number(dirname) + 1
@@ -50,7 +51,6 @@ module SamplePlugin
       end
 
       def copy_directory
-        source_root File.expand_path("../../../../app/views/sample_plugin", __FILE__)
         directory '/app/views/sample_plugin', '/app/views'
       end  
       
