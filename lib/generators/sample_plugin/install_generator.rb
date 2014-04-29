@@ -49,8 +49,8 @@ module SamplePlugin
         end
       end
 
-      def generate_welcome_page
-        source_root File.expand_path("../../../../app/views/sample_plugin", __FILE__)
+      def copy_directory
+        directory '/app/views/sample_plugin', '/app/views/sample_plugin'
       end  
       
 
