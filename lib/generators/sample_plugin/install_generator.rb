@@ -50,7 +50,7 @@ module SamplePlugin
       end
 
       def copy_directory
-        directory '/app/views/sample_plugin', '/app/views/sample_plugin'
+        directory '/app/views/sample_plugin', '/app/views'
       end  
       
 
