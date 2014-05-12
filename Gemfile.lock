@@ -4,6 +4,12 @@ PATH
     sample_plugin (0.0.1)
       rails (~> 4.0.4)
 
+PATH
+  remote: /home/kavya/git/my_plugin
+  specs:
+    my_plugin (0.0.1)
+      rails (~> 4.0.4)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -82,5 +88,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  my_plugin!
   sample_plugin!
   sqlite3

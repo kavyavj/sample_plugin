@@ -51,7 +51,7 @@ module SamplePlugin
       end
 
       def copy_directory
-        FileUtils.cp_r '/app/views/sample_plugin', 'app/views/sample_plugin'
+        copy_file "welcome.html.erb", "app/views/sample_plugin/welcome.html.erb"
         #directory 'welcome', '/app/views/sample_plugin'
       end  
       
